@@ -1,4 +1,3 @@
-Programming AU、AE and their Docker files : Tingting Zheng
-Programing BE、BU and their Docker files: Shizhan Li
-Testing docker containers in local setup: Tingting Zheng, Shizhan Li
-Programming and testing Deploy_email.yml: Tingting Zheng, Shizhan Li
+Developed 4 kinds of clients and servers based on SMTP, POP3 and HTTP protocols with Flask.
+Achieved email sending and receiving functions with socket programming.
+Pushed docker images to docker hub and deployed the application in Kubernetes.
